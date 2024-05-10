@@ -1,7 +1,8 @@
 '''
 This program calculates the sum of a list of
 integers using recursion. A test function
-will verify the recursive implementation works
+will verify the recursive implementation works.
+If nothing is in the list, it will return 0.
 '''
 
 #gets sum of list of integers
